@@ -13,7 +13,7 @@ Software development in test with background on Software development, with exper
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diegomtylop) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dimo_dev) 
 
-Apart from coding I love riding my motorcycle and my two dogs and ocasionally post about them in:
+Apart from coding I love riding my motorcycle and playing with my two dogs and ocasionally post about them in:
 
 [![giga_rider](https://img.shields.io/badge/giga__rider-orange?logo=Instagram)](https://www.instagram.com/giga_rider/)
 [![blue.la.border.collie](https://img.shields.io/badge/blue.la.border.collie-blue.svg?logo=instagram&logoColor=white)](https://www.instagram.com/blue.la.border.collie/)
