@@ -3,7 +3,7 @@ Welcome to my humble github profile
 
 
 # 💫 About Me:
-Software development in test with background on Software development, with experience working with Java, javascript and right now exploring C# and .NET technologies.
+Software developer in test with background on Software development, with experience working with Java, javascript and right now exploring C# and .NET technologies.
 - 🔭 I’m currently working on Testing automation.
 - 🌱 I’m currently learning Automation framework architecture, and .NET automation frameworks.
 - 💬 Ask me about Testing automation, OOP, Java development, Selenium, Appium, RestAssured. And coming soon about specflow and .NET automation frameworks.
